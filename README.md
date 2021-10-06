@@ -3,7 +3,7 @@ A basic note keeping web app, developed using ReactJs.
 
 ## Clone the repository
 ```
-https://github.com/pratik97179/note-app
+https://github.com/pratik97179/note-app.git
 ```
 
 ## Get dependencies

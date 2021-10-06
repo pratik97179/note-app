@@ -1,5 +1,5 @@
-# Let's Travel
-Visiting a new country or city definitely requires a travel guide. In the world full of technologies, making phone calls or using physical maps to explore new areas is a quite outdated. That said, presenting the UI for a Flutter app that will help you when you will be travelling.
+# Note Keeper
+A basic note keeping web app, developed using ReactJs.
 
 ## Clone the repository
 ```
@@ -14,5 +14,5 @@ npm install
 
 ## Screenshots
 
-![Home](/img/react_01.png)
-![Home](/img/react_02.png)
+![Home](/img/react_01.jpg)
+![Home](/img/react_02.jpg)
